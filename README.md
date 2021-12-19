@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Myself
 - 📫 How to reach me: jlrueda211088@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: nose
+- ⚡ Fun fact: eyes
 -->
