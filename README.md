@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Media Commerce
+- 🔭 I’m currently working on Fundación SerSocial
 - 🌱 I’m currently learning VueJS, Django
 - 👯 I’m looking to collaborate on My Projects
 - 🤔 I’m looking for help with VueJS
